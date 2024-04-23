@@ -2,7 +2,7 @@
 print('-----------------------------------')
 print('  Data Engineers DevOps practice  ')
 print('-----------------------------------')
-list_of_members = ['Moses Eyong','Junior KAMSAP']
+list_of_members = ['Moses Eyong','Junior KAMSAP','seydina diame']
 def afficher_les_membres():
     for lis in list_of_members:
         print(lis)
